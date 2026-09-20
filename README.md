@@ -1,16 +1,51 @@
-## Hi there 👋
+# Aleksandr Esin
 
-<!--
-**aleksandryessin/aleksandryessin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Applied AI Engineer × Industrial Data Scientist
 
-Here are some ideas to get you started:
+I turn ambiguous business and engineering problems into measurable AI systems —
+from data and models to deployment, observability, and business acceptance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 6+ years in industrial ML and analytics across energy and metallurgy
+- Contributed to initiatives with ~$1.7M/year in documented operational impact
+- Building reproducible LLM evaluation, RAG, and self-hosted inference systems
+- Experienced in connecting business requirements, data science, and engineering delivery
+
+[LinkedIn] · [Telegram] · [Email]
+
+## Selected work
+
+### 🥋 llm-dojo
+
+Reproducible EN/RU evaluation and serving experiments for local LLMs:
+
+- deterministic tool-calling and RAG-grounding suites;
+- measured EN→RU grounding degradation from −0.33 to −0.89;
+- Ollama vs vLLM benchmark: 14× aggregate throughput difference under concurrency;
+- runnable patterns for agents, structured output, retrieval, and serving.
+
+[Repository →](https://github.com/aleksandryessin/llm-dojo)
+
+### ⚙️ Industrial fault diagnosis
+
+Physics-informed and data-driven fault diagnosis for industrial gas-turbine
+subsystems, combining simulation data and machine learning.
+
+[Repository →](https://github.com/aleksandryessin/Fault_diagnosis_using_hybrid_analytics)
+
+### 🤖 AI News Digest
+
+Dockerized Telegram pipeline for collecting, ranking, summarizing, deduplicating,
+and publishing Russian-language AI news.
+
+[Repository →](https://github.com/aleksandryessin/Digest-news-telegram-bot)
+
+## What I work on
+
+`Python` · `SQL` · `FastAPI` · `Docker` · `LLM evaluation` · `RAG` ·
+`vLLM` · `Ollama` · `LangGraph` · `MLflow` · `Grafana`
+
+## Current focus
+
+Building reliable AI systems whose quality, latency, cost, and business effect
+can be measured—not merely demonstrated in a notebook.
+
